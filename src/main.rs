@@ -2,7 +2,7 @@ mod  rle;
 
 
 fn main() {
-    let input_path = "./assets/photos.txt";  // Path to the file you want to compress
+    let input_path = "./assets/hello.txt";  // Path to the file you want to compress
     let output_path = "./assets/photos.txt.gz";  // Path for the compressed file
 
     // Call the compressor function and handle any errors
